@@ -1,6 +1,6 @@
 var quad = require('./quadratic');
 
-quad(1,4,1, function(err,quadsolve) {
+quad(4,2,1, function(err,quadsolve) {
     if (err) {
         console.log('Error: ', err);
     }
