@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RobinWagner/node-examples/issues"
   },
-  "homepage": "https://github.com/RobinWagner/node-examples#readme"
+  "homepage": "https://github.com/RobinWagner/node-examples#readme",
+  "dependencies": {
+    "prompt": "^0.2.14"
+  }
 }
